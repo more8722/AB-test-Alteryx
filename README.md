@@ -13,7 +13,7 @@ Transaction data for all stores from 2015-January-21 to 2016-August-18
 A listing of all Round Roasters stores
 A listing of the 10 stores (5 in each market) that were used as test markets.
 # Hits for this projects  
-Step 1: Plan Your Analysis
+Step 1: Plan Your Analysis  
 To perform the correct analysis, you will need to prepare a data set. Prior to rolling up your sleeves and preparing the data, it’s a good idea to have a plan of what you need to do in order to prepare the correct data set. A good plan will help you with your analysis. Here are a few questions to get you started:
 What is the performance metric you’ll use to evaluate the results of your test?
 What is the test period?  
